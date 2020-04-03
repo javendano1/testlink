@@ -120,6 +120,7 @@
 /* [INITIALIZATION] - DO NOT CHANGE THE SECTION */
 
 /** @global array Global configuration class */
+/*comentario */
 $tlCfg = new stdClass();
 $tlCfg->api = new stdClass();
 $tlCfg->document_generator = new stdClass();
