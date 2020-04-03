@@ -1,0 +1,162 @@
+[>>][5e7e814be91d8469750755][DEFAULT][/testlink/install/installNewDB.php][20/Mar/27 22:42:19]
+	[20/Mar/27 22:42:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:20][WARNING][<nosession>][GUI]
+		E_WARNING
+mysql_connect(): Access denied for user 'admin'@'localhost' (using password: YES) - in C:\wamp64\www\testlink\third_party\adodb\drivers\adodb-mysql.inc.php - Line 364
+[<<][5e7e814be91d8469750755][DEFAULT][/testlink/install/installNewDB.php][20/Mar/27 22:42:19][20/Mar/27 22:42:20][took 0.050464 secs]
+[>>][5e7e8161e09ba478057069][DEFAULT][/testlink/install/installNewDB.php][20/Mar/27 22:42:41]
+	[20/Mar/27 22:42:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:41][WARNING][<nosession>][GUI]
+		E_WARNING
+mysql_close() expects parameter 1 to be resource, boolean given - in C:\wamp64\www\testlink\third_party\adodb\drivers\adodb-mysql.inc.php - Line 531
+	[20/Mar/27 22:42:41][WARNING][<nosession>][GUI]
+		E_WARNING
+mysql_close() expects parameter 1 to be resource, boolean given - in C:\wamp64\www\testlink\third_party\adodb\drivers\adodb-mysql.inc.php - Line 531
+	[20/Mar/27 22:42:42][WARNING][<nosession>][GUI]
+		E_WARNING
+Creating default object from empty value - in C:\wamp64\www\testlink\install\installUtils.php - Line 578
+[<<][5e7e8161e09ba478057069][DEFAULT][/testlink/install/installNewDB.php][20/Mar/27 22:42:41][20/Mar/27 22:42:42][took 0.362959 secs]
+[>>][5e7e816b20004197205360][DEFAULT][/testlink/index.php][20/Mar/27 22:42:51]
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+[<<][5e7e816b20004197205360][DEFAULT][/testlink/index.php][20/Mar/27 22:42:51][20/Mar/27 22:42:51][took 0.04677 secs]
+[>>][5e7e816b36bb1599092355][DEFAULT][/testlink/login.php][20/Mar/27 22:42:51]
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+[<<][5e7e816b36bb1599092355][DEFAULT][/testlink/login.php][20/Mar/27 22:42:51][20/Mar/27 22:42:51][took 0.064006 secs]
+[>>][5e7e816b46e9a830144201][DEFAULT][/testlink/login.php][20/Mar/27 22:42:51]
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:51][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][5e7e816b46e9a830144201][DEFAULT][/testlink/login.php][20/Mar/27 22:42:51][20/Mar/27 22:42:51][took 0.130588 secs]
+[>>][5e7e816f562ea535267624][DEFAULT][/testlink/login.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+[<<][5e7e816f562ea535267624][DEFAULT][/testlink/login.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.060964 secs]
+[>>][5e7e816f654bd951161192][DEFAULT][/testlink/login.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+[<<][5e7e816f654bd951161192][DEFAULT][/testlink/login.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.023946 secs]
+[>>][5e7e816f6b799258451608][DEFAULT][/testlink/login.php][20/Mar/27 22:42:55]
+[>>][5e7e816f74def859126399][DEFAULT][/testlink/index.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+[>>][5e7e816f8f205658005391][DEFAULT][/testlink/lib/general/navBar.php][20/Mar/27 22:42:55]
+[>>][5e7e816f91695038043786][DEFAULT][/testlink/lib/general/mainPage.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'
+[>>][5e7e816fc65d7769349874][DEFAULT][/testlink/lib/project/projectEdit.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'es_ES'
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'es_ES'

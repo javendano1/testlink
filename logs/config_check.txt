@@ -1,0 +1,7 @@
+¡Se debería eliminar el directorio 'Install'!
+¡Se debería cambiar la contraseña por defecto para la cuenta 'admin'!
+Check following parameters of email feature:
+tl_admin_email
+from_email
+return_path_email
+smtp_host

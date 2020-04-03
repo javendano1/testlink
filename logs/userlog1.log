@@ -1,0 +1,48 @@
+	[20/Mar/27 22:42:55][AUDIT][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][5e7e816f6b799258451608][DEFAULT][/testlink/login.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.007128 secs]
+	[20/Mar/27 22:42:55][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+[<<][5e7e816f74def859126399][DEFAULT][/testlink/index.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.069115 secs]
+[<<][5e7e816f8f205658005391][DEFAULT][/testlink/lib/general/navBar.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.087513 secs]
+[>>][5e7e816fa5196082267369][DEFAULT][/testlink/lib/general/navBar.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+[<<][5e7e816fa5196082267369][DEFAULT][/testlink/lib/general/navBar.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.057709 secs]
+[<<][5e7e816f91695038043786][DEFAULT][/testlink/lib/general/mainPage.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.151593 secs]
+[>>][5e7e816fb6b6c395607016][DEFAULT][/testlink/lib/general/mainPage.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		No project found: Assume a new installation and redirect to create it
+[<<][5e7e816fb6b6c395607016][DEFAULT][/testlink/lib/general/mainPage.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.02855 secs]
+[<<][5e7e816fc65d7769349874][DEFAULT][/testlink/lib/project/projectEdit.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.07266 secs]
+[>>][5e7e816fd85df891211727][DEFAULT][/testlink/lib/project/projectEdit.php][20/Mar/27 22:42:55]
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+	[20/Mar/27 22:42:55][WARNING][ig203fug6p3phr7tfeabf4pkv6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\wamp64\www\testlink\lib\functions\common.php - Line 583
+[<<][5e7e816fd85df891211727][DEFAULT][/testlink/lib/project/projectEdit.php][20/Mar/27 22:42:55][20/Mar/27 22:42:55][took 0.113412 secs]
